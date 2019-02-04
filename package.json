@@ -1,6 +1,6 @@
 {
   "name": "@titanium/plugin-alloy-local",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Titanium Mobile plugin to use locally installed Alloy",
   "scripts": {
     "postinstall": "node ./scripts/post-install.js"
