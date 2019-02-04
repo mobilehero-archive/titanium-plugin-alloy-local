@@ -1,0 +1,35 @@
+{
+  "name": "@titanium/plugin-alloy-local",
+  "version": "0.0.2",
+  "description": "Titanium Mobile plugin to use locally installed Alloy",
+  "scripts": {
+    "postinstall": "node ./scripts/post-install.js"
+  },
+  "keywords": [
+    "titanium",
+    "alloy",
+    "mobile",
+    "appcelerator",
+    "axway",
+    "amplify",
+    "plugin"
+  ],
+  "author": {
+    "name": "Brenton House",
+    "email": "brenton.house@gmail.com",
+    "url": "https://brenton.house"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentonhouse/geek-eslint-config.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tiapp-dir": "^1.0.1",
+    "tiapp.xml": "^0.2.2",
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "@geek/eslint-config": "0.0.1"
+  }
+}
