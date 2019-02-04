@@ -1,6 +1,6 @@
 {
   "name": "@titanium/plugin-alloy-local",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Titanium Mobile plugin to use locally installed Alloy",
   "scripts": {
     "postinstall": "node ./scripts/post-install.js"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brentonhouse/geek-eslint-config.git"
+    "url": "git+https://github.com/brentonhouse/titanium-plugin-alloy-local.git"
   },
   "license": "MIT",
   "dependencies": {
