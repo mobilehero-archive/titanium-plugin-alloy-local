@@ -1,7 +1,10 @@
 # @titanium/plugin-alloy-local
 
+![https://www.npmjs.com/package/@titanium/plugin-alloy-local](https://img.shields.io/npm/v/@titanium/plugin-alloy-local.png)
+
 > Titanium Mobile plugin to use locally installed Alloy (if available)
-> 
+
+
 - [📝 Description](#-description)
 - [🚀 Getting Started](#-getting-started)
 - [🔗 Related Links](#-related-links)
