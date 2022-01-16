@@ -1,6 +1,6 @@
 {
   "name": "@titanium/plugin-alloy-local",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "⭐  Axway Amplify plugin to use locally installed Alloy with Appcelerator Titanium SDK",
   "scripts": {
     "postinstall": "node ./scripts/post-install.js",
