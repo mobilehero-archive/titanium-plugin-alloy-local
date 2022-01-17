@@ -1,6 +1,6 @@
 {
   "name": "@titanium/plugin-alloy-local",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "⭐  Axway Amplify plugin to use locally installed Alloy with Appcelerator Titanium SDK",
   "scripts": {
     "postinstall": "node ./scripts/post-install.js",
@@ -54,20 +54,20 @@
     "@geek/tld": "^2.0.1-1",
     "@titanium/appcelerator": "^6.0.24",
     "@titanium/bluebird": "^3.7.28",
-    "@titanium/errors": "^1.0.23",
-    "@titanium/essentials": "^1.0.57",
-    "@titanium/events": "^1.0.35",
-    "@titanium/eventsource": "^1.0.25",
+    "@titanium/errors": "^1.0.24",
+    "@titanium/essentials": "^1.0.58",
+    "@titanium/events": "^1.0.36",
+    "@titanium/eventsource": "^1.0.26",
     "@titanium/jwt": "^1.0.28",
-    "@titanium/module-copier": "^1.0.31",
-    "@titanium/please": "^1.0.34",
+    "@titanium/module-copier": "^1.0.33",
+    "@titanium/please": "^1.0.35",
     "@titanium/polyfill": "^1.0.32",
-    "@titanium/querystring": "^1.0.23",
-    "@titanium/tiapp-xml": "^1.0.34",
+    "@titanium/querystring": "^1.0.24",
+    "@titanium/tiapp-xml": "^1.0.35",
     "@titanium/titanium": "^5.4.28",
-    "@titanium/turbo": "^2.2.49",
+    "@titanium/turbo": "^2.2.51",
     "fs-extra": "^10.0.0",
-    "tiapp-dir": "^1.0.24"
+    "tiapp-dir": "^1.0.25"
   },
   "devDependencies": {
     "@geek/eslint-config": "^1.0.3",
